@@ -1,4 +1,4 @@
-**Data can be download from: https://pan.baidu.com/s/1pdUpGIfP4vEWiGHwVZRKJw  iw4j)**
+**Data can be download from: https://pan.baidu.com/s/1pdUpGIfP4vEWiGHwVZRKJw  (iw4j)**
 
 ## TaxiSZ dataset
 - Data collected from 17th February to 8th April are used as the training set.
